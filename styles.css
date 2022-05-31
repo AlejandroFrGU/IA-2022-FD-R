@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+canvas{
+  position:absolute;
+}
+#buttons{
+  display: flex;
+  flex-direction: column;
+}
+#title{
+  position: absolute;
+  top: 0;
+}
