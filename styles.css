@@ -15,8 +15,6 @@ canvas{
   flex-direction: column;
 }
 #title{
-  color: white;
-  text-shadow: 2px 2px black;
   position: absolute;
   top: 0;
 }
